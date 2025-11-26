@@ -2,6 +2,7 @@
 > A spiritual successor for [TheWover's Donut](https://github.com/TheWover/donut) written in Rust
 
 This crate provides the full API for building Donut-rs payloads.
+For the CLI tool, visit [this link](https://github.com/mrLochness350/donut-cli)
 
 > [!WARNING]
 > Currently only the Windows loader is supported.
