@@ -56,7 +56,7 @@ fn main() -> io::Result<()> {
 * Binaries built using Visual Studio (the `msvc` toolkit in general) currently cause segfaults
 * Arguments aren't being passed to the executed binary
 * Unix loader causes segfaults when run
-
+* AV bypass still doesn't work
 
 ## References
 * [Donut by TheWover](https://github.com/TheWover/donut)
