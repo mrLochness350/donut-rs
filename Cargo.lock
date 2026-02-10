@@ -844,7 +844,7 @@ checksum = "58f929b4d672ea937a23a1ab494143d968337a5f47e56d0815df1e0890ddf174"
 
 [[package]]
 name = "libdonut-rs"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "aes",
  "az_logger",
