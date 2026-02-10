@@ -17,7 +17,7 @@ use hex::FromHex;
 #[cfg(feature = "std")]
 use rand::distr::Alphanumeric;
 #[cfg(feature = "std")]
-use rand::{Rng, RngCore};
+use rand::prelude::*;
 #[cfg(feature = "std")]
 use serde::de::Error;
 #[cfg(feature = "std")]
